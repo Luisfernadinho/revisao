@@ -17,3 +17,14 @@ so se tiver em modo publico
 5 o que VCS?
 
 software de controle de versao
+
+5 o que e branch?
+
+ramificação de repositorio
+
+6 o que pull request?
+
+é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório
+
+
+
