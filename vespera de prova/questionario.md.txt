@@ -18,13 +18,21 @@ so se tiver em modo publico
 
 software de controle de versao
 
-5 o que e branch?
+6 o que e branch?
 
 ramificação de repositorio
 
-6 o que pull request?
+7 o que pull request?
 
 é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório
+
+8 o que fork?
+
+um fork é simplesmente uma mudança no protocolo blockchain que o software usa para decidir se uma transação é válida ou não
+
+9 o que clone? 
+clonar um repositorio remoto para repositorio local
+
 
 
 
