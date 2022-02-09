@@ -12,5 +12,27 @@ armazena a informacao - um conjunto de documentos - de modo persistente num sist
 
 4 os codigos que colocam no github serão sempre disponivel a todos ao usuarios
 
-não tem opção 
+so se tiver em modo publico 
+
+5 o que VCS?
+
+software de controle de versao
+
+6 o que e branch?
+
+ramificação de repositorio
+
+7 o que pull request?
+
+é uma forma colaborativa de compartilhar criação ou mudanças de código no repositório
+
+8 o que fork?
+
+um fork é simplesmente uma mudança no protocolo blockchain que o software usa para decidir se uma transação é válida ou não
+
+9 o que clone? 
+clonar um repositorio remoto para repositorio local
+
+
+
 
