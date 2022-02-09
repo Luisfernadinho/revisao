@@ -10,4 +10,7 @@ Não tem restrição de linguagem.
 
 armazena a informacao - um conjunto de documentos - de modo persistente num sistema de arquivos ou num banco de dados
 
-4
+4 os codigos que colocam no github serão sempre disponivel a todos ao usuarios
+
+não tem opção 
+
