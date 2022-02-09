@@ -1,0 +1,11 @@
+1 para que serve um softaware de controle de versao?
+
+são ferramentas de software que ajudam as equipes de software a gerenciar as alterações ao código-fonte ao longo do tempo.
+
+2 quais linguagem posso ultilizar quando trabalho com GitHub
+
+Não tem restrição de linguagem.
+
+3
+
+
