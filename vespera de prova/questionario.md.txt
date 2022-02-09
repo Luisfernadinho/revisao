@@ -8,6 +8,6 @@ Não tem restrição de linguagem.
 
 3 o que um repositorio 
 
-armazena a informação - um conjunto de documentos - de modo persistente num sistema de arquivos ou num banco de dados
+armazena a informacao - um conjunto de documentos - de modo persistente num sistema de arquivos ou num banco de dados
 
 4
